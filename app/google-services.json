@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795235095967",
+    "project_id": "spmquizapp-a204415-farah",
+    "storage_bucket": "spmquizapp-a204415-farah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795235095967:android:8b29ee8aa9e951ccedd9aa",
+        "android_client_info": {
+          "package_name": "com.example.spmquizapp_a204415_farah_androidproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGBxu9mMYX-tw7_gsPhhO9HgaEOoZoQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
